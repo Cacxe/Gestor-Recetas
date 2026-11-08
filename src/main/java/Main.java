@@ -216,6 +216,8 @@ public class Main {
             dos.writeInt(receta.getId());
             dos.writeUTF(receta.getNombre());
             dos.writeInt(receta.getTiempo_preparacion());
+
+            System.out.println("Receta añadida con éxito!");
         } catch (IOException e) {
 
             e.printStackTrace();
