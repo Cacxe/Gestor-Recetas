@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogo>
+    <receta>
+        <ID>1</ID>
+        <nombre>Espaguetis</nombre>
+        <tiempoPreparacion>5</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>2</ID>
+        <nombre>Macarrones</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>3</ID>
+        <nombre>Paella</nombre>
+        <tiempoPreparacion>6</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>4</ID>
+        <nombre>Tortilla de patatas</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>5</ID>
+        <nombre>Lasaña</nombre>
+        <tiempoPreparacion>5</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>6</ID>
+        <nombre>Pizza</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>7</ID>
+        <nombre>Croquetas</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>8</ID>
+        <nombre>Ensalada César</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>9</ID>
+        <nombre>Gazpacho</nombre>
+        <tiempoPreparacion>2</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>10</ID>
+        <nombre>Albóndigas</nombre>
+        <tiempoPreparacion>5</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>11</ID>
+        <nombre>Pollo al horno</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>12</ID>
+        <nombre>Arroz con pollo</nombre>
+        <tiempoPreparacion>5</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>13</ID>
+        <nombre>Hamburguesa</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>14</ID>
+        <nombre>Sopa de verduras</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>15</ID>
+        <nombre>Pasta carbonara</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>16</ID>
+        <nombre>Patatas bravas</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>17</ID>
+        <nombre>Pimientos rellenos</nombre>
+        <tiempoPreparacion>5</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>18</ID>
+        <nombre>Merluza al horno</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>19</ID>
+        <nombre>Crepes</nombre>
+        <tiempoPreparacion>3</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>20</ID>
+        <nombre>Flan casero</nombre>
+        <tiempoPreparacion>4</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>21</ID>
+        <nombre>hola</nombre>
+        <tiempoPreparacion>2</tiempoPreparacion>
+    </receta>
+    <receta>
+        <ID>22</ID>
+        <nombre>huevosdenuevo</nombre>
+        <tiempoPreparacion>6</tiempoPreparacion>
+    </receta>
+</catalogo>
